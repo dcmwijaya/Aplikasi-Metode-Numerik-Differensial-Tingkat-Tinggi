@@ -39,7 +39,7 @@ https://onboardcloud.dl.sourceforge.net/project/orwelldevcpp/Setup%20Releases/De
 </tr>
 <tr>
 <td><img src="https://github.com/devancakra/Aplikasi-Metode-Numerik-Differensial-Tingkat-Tinggi/assets/54527592/ecd92509-a248-4bd0-984c-95cdd9dbcdb6" alt="comp-input"></td>
-<td><img src="" alt="comp-output"></td>
+<td><img src="https://github.com/devancakra/Aplikasi-Metode-Numerik-Differensial-Tingkat-Tinggi/assets/54527592/8ed0db77-9e07-4a11-ad9e-3004ee001bc3" alt="comp-output"></td>
 </tr>
 </table>
 <table>
