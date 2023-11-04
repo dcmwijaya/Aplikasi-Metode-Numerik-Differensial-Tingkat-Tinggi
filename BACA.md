@@ -4,7 +4,8 @@
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat&logo=c%2B%2B&ogoColor=white)
 
 # Aplikasi-Metode-Numerik-Differensial-Tingkat-Tinggi
-Tugas Metode Numerik - Program Aplikasi Diferensial Tingkat Tinggi
+<strong>Tugas Metode Numerik</strong><br>
+Program Aplikasi Diferensial Tingkat Tinggi.
 
 <br>
 
@@ -24,10 +25,10 @@ https://onboardcloud.dl.sourceforge.net/project/orwelldevcpp/Setup%20Releases/De
 <br>
 
 ## Menjalankan
-1.Unduh repositori ini.<br>
-2.Ekstrak file dan buka dengan Dev C++.<br>
-3.Jalankan program aplikasi dengan menekan tombol F11.<br>
-4.Selamat menikmati [Selesai].
+1. Unduh repositori ini.<br>
+2. Ekstrak file dan buka dengan Dev C++.<br>
+3. Jalankan program aplikasi dengan menekan tombol F11.<br>
+4. Selamat menikmati [Selesai].
 
 <br>
 
