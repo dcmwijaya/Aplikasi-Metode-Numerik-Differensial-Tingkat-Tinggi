@@ -4,7 +4,7 @@
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat&logo=c%2B%2B&ogoColor=white)
 
 # Aplikasi-Metode-Numerik-Differensial-Tingkat-Tinggi
-<strong>Numerical Methods Assignment</strong><br>
+<strong>Numerical Methods Final Project</strong><br>
 Higher Order Differential Application Program.
 
 <br>
