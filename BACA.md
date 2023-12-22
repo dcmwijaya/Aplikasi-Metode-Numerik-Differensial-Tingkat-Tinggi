@@ -4,7 +4,7 @@
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat&logo=c%2B%2B&ogoColor=white)
 
 # Aplikasi-Metode-Numerik-Differensial-Tingkat-Tinggi
-<strong>Tugas Metode Numerik</strong><br>
+<strong>Tugas Akhir Metode Numerik</strong><br>
 Program Aplikasi Diferensial Tingkat Tinggi.
 
 <br>
