@@ -9,7 +9,7 @@ Higher Order Differential Application Program.
 
 <br>
 
-## Features / Framework / Tools
+## Project Requirements
 | Part | Description |
 | --- | --- |
 | Features | Computation, Validation |
