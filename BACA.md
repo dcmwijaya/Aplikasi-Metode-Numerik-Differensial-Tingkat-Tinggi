@@ -18,9 +18,14 @@ Program Aplikasi Diferensial Tingkat Tinggi.
 <br>
 
 ## Unduh & Instal Dev C++
-```bash
+
+<table><tr><td width="840">
+  
+```
 https://onboardcloud.dl.sourceforge.net/project/orwelldevcpp/Setup%20Releases/Dev-Cpp%205.11%20TDM-GCC%204.9.2%20Setup.exe
 ```
+
+</td></tr></table>
 
 <br>
 
@@ -51,6 +56,11 @@ https://onboardcloud.dl.sourceforge.net/project/orwelldevcpp/Setup%20Releases/De
 <td><img src="https://github.com/devancakra/Aplikasi-Metode-Numerik-Differensial-Tingkat-Tinggi/assets/54527592/74fcb349-92ea-4552-9131-33ef0751d337" alt="validation"></td>
 </tr>
 </table>
+
+<br>
+
+## Apresiasi
+Jika anda merasa karya ini bermanfaat, dukunglah karya ini sebagai bentuk apresiasi kepada penulis dengan cara mengeklik tombol ``` ⭐Bintang ```.
 
 <br>
 
