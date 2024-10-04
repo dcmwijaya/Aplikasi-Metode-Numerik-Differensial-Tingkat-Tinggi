@@ -1,7 +1,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Aplikasi-Metode-Numerik-Differensial-Tingkat-Tinggi)
-![C](https://img.shields.io/badge/programming%20-%2300599C.svg?&logo=cplusplus&logoColor=white)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Aplikasi-Metode-Numerik-Differensial-Tingkat-Tinggi?logo=Codeforces&logoColor=white&color=%23F7DF1E)
+![Project](https://img.shields.io/badge/Project-Desktop-light.svg?style=flat&logo=c&logoColor=white&color=%23F7DF1E)
+![Type](https://img.shields.io/badge/Type-Campus%20Assignment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Aplikasi-Metode-Numerik-Differensial-Tingkat-Tinggi
 <strong>Tugas Akhir Metode Numerik</strong><br>
@@ -44,8 +45,8 @@ https://bit.ly/DEVC_Installer
 <th width="420">Keluaran Komputasi</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/Aplikasi-Metode-Numerik-Differensial-Tingkat-Tinggi/assets/54527592/ecd92509-a248-4bd0-984c-95cdd9dbcdb6" alt="comp-input"></td>
-<td><img src="https://github.com/devancakra/Aplikasi-Metode-Numerik-Differensial-Tingkat-Tinggi/assets/54527592/8ed0db77-9e07-4a11-ad9e-3004ee001bc3" alt="comp-output"></td>
+<td><img src="Documentation/Computation Input.jpg" alt="comp-input"></td>
+<td><img src="Documentation/Computation Output.jpg" alt="comp-output"></td>
 </tr>
 </table>
 <table>
@@ -53,7 +54,7 @@ https://bit.ly/DEVC_Installer
 <th width="840">Validasi</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/Aplikasi-Metode-Numerik-Differensial-Tingkat-Tinggi/assets/54527592/74fcb349-92ea-4552-9131-33ef0751d337" alt="validation"></td>
+<td><img src="Documentation/Validation.jpg" alt="validation"></td>
 </tr>
 </table>
 
@@ -65,7 +66,7 @@ Jika karya ini bermanfaat bagi anda, maka dukunglah karya ini sebagai bentuk apr
 <br>
 
 ## LISENSI 
-LISENSI MIT - Hak Cipta © 2020 - Devan Cakra Mudra Wijaya
+LISENSI MIT - Hak Cipta © 2020 - Devan C. M. Wijaya
 
 Dengan ini diberikan izin tanpa biaya kepada siapa pun yang mendapatkan salinan perangkat lunak ini dan file dokumentasi terkait perangkat lunak untuk menggunakannya tanpa batasan, termasuk namun tidak terbatas pada hak untuk menggunakan, menyalin, memodifikasi, menggabungkan, mempublikasikan, mendistribusikan, mensublisensikan, dan/atau menjual salinan Perangkat Lunak ini, dan mengizinkan orang yang menerima Perangkat Lunak ini untuk dilengkapi dengan persyaratan berikut:
 
