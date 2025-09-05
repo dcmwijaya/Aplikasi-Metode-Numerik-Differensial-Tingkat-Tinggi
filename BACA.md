@@ -4,7 +4,7 @@
 ![Project](https://img.shields.io/badge/Project-Desktop-light.svg?style=flat&logo=c&logoColor=white&color=%23F7DF1E)
 ![Type](https://img.shields.io/badge/Type-Campus%20Assignment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
-# Aplikasi-Metode-Numerik-Differensial-Tingkat-Tinggi
+# Aplikasi Metode Numerik Differensial Tingkat Tinggi
 <strong>Tugas Akhir Metode Numerik</strong><br>
 Program Aplikasi Diferensial Tingkat Tinggi.
 
